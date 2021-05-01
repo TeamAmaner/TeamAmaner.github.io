@@ -38,3 +38,9 @@ markdown_extensions:
     - pymdownx.arithmatex:
         generic: true
     - meta
+
+nav:
+    - ホーム: index.md
+    - 派生鯖: servers.md
+    - 内輪ネタ: neta.md
+    - 歴史: history.md
