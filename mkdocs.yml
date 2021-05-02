@@ -23,6 +23,10 @@ theme:
         - navigation.instant
 
 markdown_extensions:
+    - codehilite:
+        noclasses: true
+        pygments_style: colorful
+        linenums: true
     - toc:
         permalink: true
     - admonition
@@ -42,6 +46,7 @@ markdown_extensions:
 nav:
     - ホーム: index.md
     - 派生鯖: servers.md
+    - 議事録: logs.md
     - 内輪ネタ: neta.md
     - Vocaleague: Vocaleague.md
     - 歴史: history.md
