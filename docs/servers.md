@@ -75,7 +75,42 @@
     ※botが反応しないのは仕様です。なんかあれば鯖主呼んでください。
 
 
-<!-- ??? note "[Amaner Cafe] -->
+??? note "[Amaner Cafe](https://discord.gg/SZfzRbfxzg)"
+    いろいろな鯖をまとめた鯖
+
+??? note "[ペットの成長記録兼自慢用鯖](https://discord.gg/Rgv6ayKbzf)"
+    ペットの自慢するための鯖（ペット飼ってなくても大歓迎です！！！！！！！）
+
+??? note "[てるてるぼーずの天界会話場](https://discord.gg/7pNGkGuW)"
+    ・適当に運営します。
+    ・ゲーム、雑談、なんでもおkな鯖です。
+    ・愚痴や病み吐きにも使用可能です。
+
+??? note "[GUNDAM Server](https://discord.gg/3cfRx94eQK)"
+    ガンダムが好きな人が集まるサーバーです。
+    まだあんまり知らないよって方も既存の方親切に教えてくれると思います。
+
+??? note "[玖-きゅう-としゃべろ？](https://discord.gg/KDs2sPA5)"
+    なんと・・・この度私、玖‐きゅう‐のサーバーが作られました！！
+
+??? note "[巨人の肩の上に立つ](https://discord.gg/yaTCbMcqeB)"
+    ただの雑学まとめる系の鯖
+
+??? note "[ROSE‐ロゼ‐ふぁんくらぶっ！！](https://discord.gg/NugveFwP)"
+    ROSE‐ロゼ‐を推したいあなたへ是非！！
+
+??? note "[あま娘(ウマ娘)](https://discord.gg/GYAXCHbsbn)"
+    読んで字のごとく
+
+??? note "[アホになりたいやつここに来い](https://discord.gg/asMQ2BBF)"
+    アホが集う場所です()
+
+??? note "[Mary.の住居](https://discord.gg/z4r5HnKh3d)"
+    にんげんちゃん、てるくん、あまからくん、ぷにょくん、あおいさん、あーさん、私の7人でやってます
+    まだ何もしてないけど()
+    いちおうRoseの姉妹グループらしいです
+    よろしくお願いします(？)
+
 
 ---
 
