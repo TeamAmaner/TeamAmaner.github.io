@@ -15,7 +15,7 @@ theme:
     font:
         text: Noto Sans
     language: ja
-    logo: media/amc.md
+    logo: media/amc.png
     favicon: media/favicon.ico
     icon:
         repo: fontawesome/brands/github
