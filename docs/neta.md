@@ -18,7 +18,7 @@
     鯖内のVCで常に発狂と号泣を繰り返していたことから、  
     発狂の多い、引退してしまった某V-TuberとVOMSの【天野ピカミィ】を掛けて、  
     【ギバミィ】と呼ばれるようになった。  
-    <img src="media/mochi01.png" alt="ｷﾞﾊﾞﾐｨの画像">
+    ![ｷﾞﾊﾞﾐｨの画像](media/mochi01.png)
 
 ??? example "あまなー"
     Amachiのリスナー  
@@ -32,13 +32,13 @@
     一時期、あまなっとうがあまなー界隈のマスコットキャラクターになった。  
     ３つ目の動画が、古参ネタの全てを物語っている...  
     <video width="100%" height="auto" controls>
-    <source src="media/am1.mp4" type="video/mp4">
+        <source src="media/am1.mp4" type="video/mp4">
     </video>
     <video width="100%" height="auto" controls>
-    <source src="media/am2.mp4" type="video/mp4">
+        <source src="media/am2.mp4" type="video/mp4">
     </video>
     <video width="100%" height="auto" controls>
-    <source src="media/am3.mp4" type="video/mp4">
+        <source src="media/am3.mp4" type="video/mp4">
     </video>
 
 ??? example "あまぼっち"
@@ -63,13 +63,13 @@
     元々女殴ってる雰囲気だったから殴ってるって言って、その後、あくさんがセンター分けと判明し、センター分けでマジで殴ってんじゃんwwwwwとなったそう。（本人談）  
     ＊実際に殴ってるわけではないので、ご注意ください
 
-??? example "あびゃあ"
+!!! example "あびゃあ"
 
-??? example "夜桜"
+!!! example "夜桜"
 
-??? example "全裸"
+!!! example "全裸"
 
-??? example "ゴミーズ（ゴーミーズ＆Gm’s）"
+!!! example "ゴミーズ（ゴーミーズ＆Gm’s）"
 
 ??? example "ゴマーズ"
     きのこのこが、Gm'sを読み間違えたことでできたネタ
@@ -80,14 +80,15 @@
     案の定、どっきりは大成功！  
     しかし、過呼吸を起こす人が出たり、普段怒らない人が激怒するなど、結果は散々となった。  
     結果、Amachiは病み、当時存在していたAmachiが運営していたサーバーを全部消し、すべてが幕を閉じた。  
-    <img src="media/enshutu.PNG" alt="演出">
+    ![演出](media/enshutu.PNG)
 
 ??? example "Amachiの開発仲間(仮)"
     いつ始まったかもつけてる本人は知らない。確か、【名無し。】というプログラマーがつけてたから、ノリでつけてみたから？よく覚えとらん  
     by. Zect  
     [TeamAmaner](http://github.com/TeamAmaner)
 
-??? example "お前もコノ・ナマエにならないか？"
+!!! example "お前もコノ・ナマエにならないか？"
+
 ??? example "増殖"
     サブ垢の名前を変更して、VCに同じ名前の人を量産したところから始まった。
     ??? example "（実は...）"
@@ -101,11 +102,11 @@
     ⇩レベル一覧  
     [MEE6 - The Discord Bot](https://mee6.xyz/leaderboard/808283612105408533)
     
-> 内輪ネタ募集中！
-> ・「これ、内輪ネタじゃね？」
-> ・「俺はGmじゃねーー！！！」
-> ・「この文章追加して！」
-> ・「え？あまちはぼっちだよ？」
-> 等ありましたら、
-> 本部の【# 質問・要望・相談】か
+> 内輪ネタ募集中！  
+> - 「これ、内輪ネタじゃね？」  
+> - 「俺はGmじゃねーー！！！」  
+> - 「この文章追加して！」  
+> - 「え？あまちはぼっちだよ？」  
+> 等ありましたら、  
+> 本部の【# 質問・要望・相談】か  
 > Zect#3279のDiscord DMまで
