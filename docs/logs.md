@@ -9,7 +9,7 @@
     ![議事録 #2.5](https://teamamaner.github.io/logs/2.5/)
 
 !!! tldr "#2 サーバーの今後"
-    ![議事録 #2](https://teamamaner.github.io/logs/logs/2/)
+    ![議事録 #2](https://teamamaner.github.io/logs/2/)
 
 !!! tldr "#1 サーバーリニューアル"
-    ![議事録 #1](https://teamamaner.github.io/logs/logs/1/)
+    ![議事録 #1](https://teamamaner.github.io/logs/1/)
