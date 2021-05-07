@@ -49,3 +49,7 @@ app.get('/guilds', (req, res) => {
 });
 
 app.listen(8080, () => console.log('Ready'));
+
+
+// https://www.npmjs.com/package/discord-oauth2
+// 後、これも
