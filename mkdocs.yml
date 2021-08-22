@@ -47,12 +47,6 @@ markdown_extensions:
 
 nav:
     - ホーム: index.md
-    - 派生鯖: servers.md
-    - 議事録:
-        - logs/index.md
-        - 1: logs/1.md
-        - 2: logs/2.md
-        - 2.5: logs/2.5.md
     - 内輪ネタ:
         - neta.md
         - Vocaleague: Vocaleague.md
