@@ -1,5 +1,9 @@
 # Vocaleague
 
+!!! warning "注意"
+    ## このページは旧型Vocaleagueのページです。
+    ## 新型版は現在制作中です。
+
 ## Vocaleague システム開発者
 - Bot版：[Zect](https://twitter.com/SAS3279)
 - Web版：[Reply](https://twitter.com/Reply_127)

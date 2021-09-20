@@ -1,8 +1,8 @@
-site_name: VocaloCafe
+site_name: TeamAmaner
 site_description: Amaner Potal Web
 site_author: Zect
-site_url: https://TeamAmaner.github.io/
-repo_name: TeamAmaner/VocaloCafe
+site_url: https://amaner.net/
+repo_name: TeamAmaner/Amaner.web
 repo_url: https://github.com/TeamAmaner/TeamAmaner.github.io
 google_analytics: ["Amachi", "Amaner"]
 
@@ -47,10 +47,7 @@ markdown_extensions:
 
 nav:
     - ホーム: index.md
-    - 内輪ネタ:
-        - neta.md
-        - Vocaleague: Vocaleague.md
-    - 歴史: history.md
-    - 運営チーム: staff.md
-#     - 支援に関するお願い: support.md
+    # - 内輪ネタ: neta.md
+    - Vocaleague: Vocaleague.md
+    # - 歴史: history.md
 
